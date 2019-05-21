@@ -1,10 +1,12 @@
 # Super Duper Ice Tea
 Recipe for awesome ice tea
 
+## Prepare tea
 - Brew black tea.
   - Recomended ratio: 450ml water /2g black tea (Rize turkish tea for best results)
 - Leave cool down to RT.
 
+### Instructions:
 - For 1 L:
   - 100ml Holunder necktar (Holunder Blute).
   - 200ml Black tea (previously brewed).
