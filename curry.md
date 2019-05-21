@@ -7,8 +7,8 @@
 
 - Chopped onions: 1kg
 - 1 big green bell pepper
-- 500g tomatoes
+- 500g tomatoes.
 - 800g chicken, diced.
-- 500g yoghurt
+- 500g yoghurt.
 - Fresh koriander to taste.
 
