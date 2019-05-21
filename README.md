@@ -1,2 +1,2 @@
-# SuperDuperIceTea
-Recipe for awesome ice tea 
+# Super Duper Ice Tea
+Recipe for awesome **ice tea** 
