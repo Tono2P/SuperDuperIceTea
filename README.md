@@ -10,5 +10,5 @@ Recipe for awesome ice tea
   - 200ml Black tea (previously brewed).
   - 4 20cm branches of strawberry mint with as many leaves as possible
   - Fill up to 1 L.
-  
-```
+
+Cool overnight at 4°C before enjoying it.
