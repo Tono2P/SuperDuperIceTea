@@ -1,5 +1,5 @@
 # Super Duper Ice Tea
-**Recipe for awesome ice tea**
+Recipe for awesome ice tea
 
 - Brew black tea.
   - Recomended ratio: 450ml water /2g black tea (Rize turkish tea for best results)
